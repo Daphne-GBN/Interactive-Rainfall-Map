@@ -1,2 +1,2 @@
 # Interactive-Rainfall-Map
-![Map Preview](path/to/map-preview.png)
+![Map Preview](map-preview.png)
